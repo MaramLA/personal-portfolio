@@ -6,7 +6,10 @@ const About = () => {
     <section className="about" id="about">
       <div className="about-img">
         <video autoPlay muted loop>
-          <source src="src/assets/videos/idea.mp4" type="video/mp4" />
+          <source
+            src="https://res.cloudinary.com/dsskyyspr/video/upload/v1709224850/personal-portfolio/kqns4whsgo56j1azmrxx.mp4"
+            type="video/mp4"
+          />
           Your browser does not support the video.
         </video>
       </div>

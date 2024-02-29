@@ -54,7 +54,10 @@ const Hero = () => {
 
       <div className="hero-vid">
         <video autoPlay muted loop>
-          <source src="src/assets/videos/hero.mp4" type="video/mp4" />
+          <source
+            src="https://res.cloudinary.com/dsskyyspr/video/upload/v1709224850/personal-portfolio/bwilv8o99pbhws4zau1s.mp4"
+            type="video/mp4"
+          />
           Your browser does not support the video.
         </video>
       </div>

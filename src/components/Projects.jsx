@@ -11,7 +11,10 @@ const Projects = () => {
 
       <div className="projects-container">
         <div className="project-box">
-          <img src="src/assets/images/nailscope.png" alt="my project" />
+          <img
+            src="https://res.cloudinary.com/dsskyyspr/image/upload/v1709224851/personal-portfolio/t07hdv1ftdiixkqyzgq9.png"
+            alt="my project"
+          />
           <div className="project-layer">
             <h4>Nail Scope</h4>
             <p>An AI Website Tool For Diagnosing Three Nail Diseases</p>
@@ -23,7 +26,10 @@ const Projects = () => {
           </div>
         </div>
         <div className="project-box">
-          <img src="src/assets/images/casetone-api.png" alt="my project" />
+          <img
+            src="https://res.cloudinary.com/dsskyyspr/image/upload/v1709224852/personal-portfolio/upkl4zv3jhpq0jxuzljv.png"
+            alt="my project"
+          />
           <div className="project-layer">
             <h4>E-Commerce API</h4>
             <p>An API for MERN fullstack e-commerce website</p>
@@ -35,7 +41,10 @@ const Projects = () => {
           </div>
         </div>
         <div className="project-box">
-          <img src="src/assets/images/casetone.png" alt="my project" />
+          <img
+            src="https://res.cloudinary.com/dsskyyspr/image/upload/v1709224851/personal-portfolio/iaulwygp8wyspfnogxrx.png"
+            alt="my project"
+          />
           <div className="project-layer">
             <h4>Casetone</h4>
             <p>MERN fullstack e-commerce website</p>
@@ -52,7 +61,7 @@ const Projects = () => {
 
         <div className="project-box">
           <img
-            src="src/assets/images/personal-profile-project.png"
+            src="https://res.cloudinary.com/dsskyyspr/image/upload/v1709224852/personal-portfolio/yj7dene0vzifwmtiytwv.png"
             alt="my project"
           />
           <div className="project-layer">
