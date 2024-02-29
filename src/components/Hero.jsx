@@ -44,7 +44,7 @@ const Hero = () => {
         <button className="btn">
           <a
             className="btn-link"
-            href="src/assets/files/CV_Maram_Alfaraj_Frontend_Developer.pdf"
+            href="src/assets/files/CV_Maram_Alfaraj_Web_Developer.pdf"
             download
           >
             Download CV
