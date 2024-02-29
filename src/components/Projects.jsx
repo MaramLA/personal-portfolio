@@ -68,10 +68,10 @@ const Projects = () => {
             <h4>Personal Portfolio</h4>
             <p>Web developer personal portfolio with functional sections</p>
             <div className="project-controllers">
-              <a href="#">
+              <a href="https://github.com/MaramLA/personal-portfolio">
                 <FiGithub className="project-link" />
               </a>
-              <a href="#">
+              <a href="https://personal-portfolio-sooty-iota.vercel.app/">
                 <FaRegEye className="project-link" />
               </a>
             </div>
